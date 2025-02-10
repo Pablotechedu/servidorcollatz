@@ -42,7 +42,3 @@ http://localhost:3000/collatz?numero=5
   "error": "Ruta no encontrada"
 }
 ```
-
-## Autor
-- [Tu Nombre]
-
